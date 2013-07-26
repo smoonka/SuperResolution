@@ -1,2 +1,3 @@
--Moodstocks-recruitment
+Super-resoltion
 =======================
+A novel application of learning based super-resolution techniques to enhance the content of a static UHD panoramic camera using the image statistical data from multiple moving HD broadcast cameras. The learning was realized by first aligning the high-resolution broadcast video to the panoramic scene video using the calibration parameters of the cameras. Then the down-sampling ratio was used to learn the mapping parameters from low resolution to high resolution videos. After learning the mapping, this mapping was transferred to the full panorama resulting in higher resolution panoramic output video.
